@@ -42,22 +42,6 @@ const assertEqual = function(actual, expected) {
     return true;
   };
   
-
-//   const eqObjects = function(object1, object2) { 
-//     if (Object.keys(object1).length !== Object.keys(object2).length) {
-//         return false;
-//       }
-    
-//       for (object1 of Object.keys(object1)) {
-//         if (object1[object1].isArray === true && object2[object1].isArray === true){
-//           if (eqArrays(object1[object1], object2[object1] === false))
-//             return false
-//         } else if (object1[object1] !== object2[object1]) {
-//           return false;
-//         }
-//       }
-//       return true;
-// };
 // TEST
 const ab = { a: "1", b: "2" };
 const ba = { b: "2", a: "1" };
