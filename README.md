@@ -26,6 +26,7 @@ This project was created and published by me as part of my learnings at Lighthou
 
 The following functions are currently implemented:
 
-* `function1(...)`: description
-* `function2(...)`: description
-* `function3(...)`: descriptionS
+* head(...): Returns the first element from an array
+* tail(...): Returns all the elements except first from an array
+* middle(...): Returns middle elements from an array
+* eqArrays(...): compares two arrays
