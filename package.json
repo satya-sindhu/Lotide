@@ -1,5 +1,5 @@
 {
-  "name": "@satya/lotide",
+  "name": "@satyasindhu/lotide",
   "version": "1.0.0",
   "description": "LOTIDE",
   "main": "assertArraysEqual.js",
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/satya-sindhu/lotide.git"
   },
-  "author": "Satya",
+  "author": "satyasindhu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/satya-sindhu/lotide/issues"
